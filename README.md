@@ -1,4 +1,4 @@
-UML_Basico
+UML Básico
 ==========
 
-Curso de UML usando a plataforma EDX
+Curso de UML Básico oferecido pelo SERPRO e migrado para a plataforma do edx.
