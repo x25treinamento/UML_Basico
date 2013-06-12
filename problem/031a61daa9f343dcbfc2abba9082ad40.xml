@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Indique, nas opções abaixo, aquela que apresenta a definição correta do mecanismo de Herança, no contexto da programação orientada a objetos.&#10;( ) A herança é o processo de criação de um objeto a partir de uma classe.&#10;(x) A herança é um mecanismo que permite que uma classe possa utilizar, ou herdar, os comportamentos (métodos) e atributos de uma outra classe.&#10;( ) A herança é o conjunto de regras que define a criação de atributos nos métodos de uma classe.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>Indique, nas opções abaixo, aquela que apresenta a definição correta do mecanismo de Herança, no contexto da programação orientada a objetos.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">A herança é o processo de criação de um objeto a partir de uma classe.</choice>
+      <choice correct="true">A herança é um mecanismo que permite que uma classe possa utilizar, ou herdar, os comportamentos (métodos) e atributos de uma outra classe.</choice>
+      <choice correct="false">A herança é o conjunto de regras que define a criação de atributos nos métodos de uma classe.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

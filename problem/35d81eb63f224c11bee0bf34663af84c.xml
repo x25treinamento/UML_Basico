@@ -1,0 +1,11 @@
+<problem display_name="Multiple Choice" markdown="Em relação às classes, no contexto da programação orientada a objetos, todas as alternativas abaixo são verdadeiras, EXCETO:&#10;( ) As classes são as unidades básicas do modelo de programação orientada a objetos.&#10;( ) De forma geral, programar em uma linguagem orientada a objetos significa escrever Classes.&#10;(x) É possível afirmar que as classes são instâncias de objetos, e os objetos representam entidades ou situações do mundo real.&#10;( ) A Classe pode ser considerada o modelo a partir do qual se constrói um Objeto. Portanto, um Objeto é uma instância de uma classe.&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>Em relação às classes, no contexto da programação orientada a objetos, todas as alternativas abaixo são verdadeiras, EXCETO:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">As classes são as unidades básicas do modelo de programação orientada a objetos.</choice>
+      <choice correct="false">De forma geral, programar em uma linguagem orientada a objetos significa escrever Classes.</choice>
+      <choice correct="true">É possível afirmar que as classes são instâncias de objetos, e os objetos representam entidades ou situações do mundo real.</choice>
+      <choice correct="false">A Classe pode ser considerada o modelo a partir do qual se constrói um Objeto. Portanto, um Objeto é uma instância de uma classe.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

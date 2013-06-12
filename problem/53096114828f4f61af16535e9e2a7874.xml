@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="As opções que se seguem apresentam listas compostas por Itens Comportamentais. Indique a opção que apresenta uma lista correta destes itens.&#10;(x) Interações e Máquinas de Estado.&#10;( ) Máquinas de Estado e Pacotes.&#10;( ) Interações e Transições.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>As opções que se seguem apresentam listas compostas por Itens Comportamentais. Indique a opção que apresenta uma lista correta destes itens.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Interações e Máquinas de Estado.</choice>
+      <choice correct="false">Máquinas de Estado e Pacotes.</choice>
+      <choice correct="false">Interações e Transições.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

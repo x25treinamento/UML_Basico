@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Os itens a seguir apresentam afirmações relativas aos Diagramas de Classe em UML. Indique a alternativa que apresenta a afirmativa incorreta.&#10;( ) Por meio dos diagramas de classes, será possível exibir uma projeção dos requisitos funcionais do sistema – ou seja, que serviços o sistema oferecerá aos seus usuários finais.&#10;( ) O diagrama de classes encontra seu lugar na modelagem da visão estática do sistema.&#10;(x) O diagrama de classes deve indicar também os casos de usos e os atores pertinentes ao sistema.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>Os itens a seguir apresentam afirmações relativas aos Diagramas de Classe em UML. Indique a alternativa que apresenta a afirmativa incorreta.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Por meio dos diagramas de classes, será possível exibir uma projeção dos requisitos funcionais do sistema – ou seja, que serviços o sistema oferecerá aos seus usuários finais.</choice>
+      <choice correct="false">O diagrama de classes encontra seu lugar na modelagem da visão estática do sistema.</choice>
+      <choice correct="true">O diagrama de classes deve indicar também os casos de usos e os atores pertinentes ao sistema.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

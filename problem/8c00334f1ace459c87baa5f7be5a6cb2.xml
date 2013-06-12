@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="As três opções que se seguem apresentam listas compostas por Itens Estruturais. Indique a opção que apresenta uma lista incorreta de itens.&#10;( ) Classes, Nós e Componentes.&#10;(x) Colaborações, Classes e Associações.&#10;( ) Casos de uso, Interfaces e Colaborações.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>As três opções que se seguem apresentam listas compostas por Itens Estruturais. Indique a opção que apresenta uma lista incorreta de itens.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Classes, Nós e Componentes.</choice>
+      <choice correct="true">Colaborações, Classes e Associações.</choice>
+      <choice correct="false">Casos de uso, Interfaces e Colaborações.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

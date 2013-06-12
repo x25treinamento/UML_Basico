@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Indique, dentre as alternativas a, b e c a seguir, aquela que apresenta a definição correta da linguagem UML.&#10;( ) A UML é uma linguagem de programação de computadores, que utiliza o paradigma da orientação a objetos.&#10;(x) A UML é uma linguagem de modelagem visual, que permite a definição da estrutura de um projeto de softwares.&#10;( ) A UML é uma linguagem de modelagem de bancos de dados.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>Indique, dentre as alternativas a, b e c a seguir, aquela que apresenta a definição correta da linguagem UML.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">A UML é uma linguagem de programação de computadores, que utiliza o paradigma da orientação a objetos.</choice>
+      <choice correct="true">A UML é uma linguagem de modelagem visual, que permite a definição da estrutura de um projeto de softwares.</choice>
+      <choice correct="false">A UML é uma linguagem de modelagem de bancos de dados.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

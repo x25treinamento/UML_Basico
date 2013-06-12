@@ -1,0 +1,11 @@
+<problem display_name="Multiple Choice" markdown="Todas as alternativas abaixo são verdadeiras, EXCETO:&#10;( ) Os blocos de construção da UML são: Itens, Relacionamentos e Diagramas.&#10;( ) São itens estruturais da UML: Classes, interfaces, colaborações, casos de usos, classes ativas, componentes e nós.&#10;(x) São diagramas da UML: diagrama de classes, de objetos, de casos de uso, de entidade-relacionamento, de colaboração, de estados, de atividades, de componentes e de implantação.&#10;( ) São relacionamentos da UML: dependência, associação, generalização e realização.&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>Todas as alternativas abaixo são verdadeiras, EXCETO:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Os blocos de construção da UML são: Itens, Relacionamentos e Diagramas.</choice>
+      <choice correct="false">São itens estruturais da UML: Classes, interfaces, colaborações, casos de usos, classes ativas, componentes e nós.</choice>
+      <choice correct="true">São diagramas da UML: diagrama de classes, de objetos, de casos de uso, de entidade-relacionamento, de colaboração, de estados, de atividades, de componentes e de implantação.</choice>
+      <choice correct="false">São relacionamentos da UML: dependência, associação, generalização e realização.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

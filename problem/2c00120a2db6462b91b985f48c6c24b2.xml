@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="As alternativas a, b e c a seguir apresentam considerações sobre o polimorfismo, no contexto da programação orientada a objetos. Indique, dentre elas, aquela que apresenta a afirmativa correta.&#10;(x) O polimorfismo é a propriedade da programação a objetos que permite a duas ou mais classes derivadas possuam os mesmos métodos da classe base (a mesma assinatura), mas comportamentos distintos dos métodos originais.&#10;( ) Em consonância com as propriedades do polimorfismo, duas ou mais classes derivadas podem herdar os mesmos métodos da classe base, inclusive com o mesmo nome, mas obriga que tais métodos tenham comportamentos idênticos.&#10;( ) O polimorfismo é a propriedade que impede que dois objetos utilizem os mesmos métodos da classe base (a mesma assinatura).&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>As alternativas a, b e c a seguir apresentam considerações sobre o polimorfismo, no contexto da programação orientada a objetos. Indique, dentre elas, aquela que apresenta a afirmativa correta.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">O polimorfismo é a propriedade da programação a objetos que permite a duas ou mais classes derivadas possuam os mesmos métodos da classe base (a mesma assinatura), mas comportamentos distintos dos métodos originais.</choice>
+      <choice correct="false">Em consonância com as propriedades do polimorfismo, duas ou mais classes derivadas podem herdar os mesmos métodos da classe base, inclusive com o mesmo nome, mas obriga que tais métodos tenham comportamentos idênticos.</choice>
+      <choice correct="false">O polimorfismo é a propriedade que impede que dois objetos utilizem os mesmos métodos da classe base (a mesma assinatura).</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

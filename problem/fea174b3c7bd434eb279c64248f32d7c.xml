@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Indique, dentre as três opções que se seguem, aquela que lista corretamente os tipos de Relacionamentos definidos para a linguagem UML.&#10;(x) Dependência, associação, generalização e realização.&#10;( ) Interação, associação, generalização e realização.&#10;( ) Dependência, associação, transição e realização.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>Indique, dentre as três opções que se seguem, aquela que lista corretamente os tipos de Relacionamentos definidos para a linguagem UML.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Dependência, associação, generalização e realização.</choice>
+      <choice correct="false">Interação, associação, generalização e realização.</choice>
+      <choice correct="false">Dependência, associação, transição e realização.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

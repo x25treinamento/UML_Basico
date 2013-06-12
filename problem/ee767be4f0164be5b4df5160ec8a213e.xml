@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="As alternativas a, b e c a seguir apresentam considerações sobre o mecanismo de herança, no contexto da programação orientada a objetos. Indique, dentre elas, aquela que apresenta a afirmativa correta.&#10;( ) O mecanismo de herança é um processo de especialização/generalização. A superclasse, ou classe base, implementará comportamentos particulares, e herdará comportamentos da subclasse, ou classe derivada.&#10;( ) O mecanismo de herança é utilizado para impedir a reutilização de códigos.&#10;(x) O mecanismo de herança é um processo de generalização/especialização. A subclasse pode implementar comportamentos particulares, que a superclasse não possui. Portanto, ela é mais especializada que a sua superclasse, que contém somente os comportamentos mais genéricos.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>As alternativas a, b e c a seguir apresentam considerações sobre o mecanismo de herança, no contexto da programação orientada a objetos. Indique, dentre elas, aquela que apresenta a afirmativa correta.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">O mecanismo de herança é um processo de especialização/generalização. A superclasse, ou classe base, implementará comportamentos particulares, e herdará comportamentos da subclasse, ou classe derivada.</choice>
+      <choice correct="false">O mecanismo de herança é utilizado para impedir a reutilização de códigos.</choice>
+      <choice correct="true">O mecanismo de herança é um processo de generalização/especialização. A subclasse pode implementar comportamentos particulares, que a superclasse não possui. Portanto, ela é mais especializada que a sua superclasse, que contém somente os comportamentos mais genéricos.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

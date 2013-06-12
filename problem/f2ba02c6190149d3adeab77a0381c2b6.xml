@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Os itens a seguir apresentam algumas definições de atributos de uma Classe, relativas às linguagens orientadas a objetos. Indique a alternativa correta.&#10;( ) Os atributos são os comportamentos de uma classe, ou seja, as tarefas que a classe pode executar.&#10;(x) Os atributos são as variáveis, ou seja, os dados que a classe e os métodos necessitam para realizar suas tarefas.&#10;( ) Os Atributos são as unidades básicas dos programas escritos em linguagens de programação orientadas a objetos.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>Os itens a seguir apresentam algumas definições de atributos de uma Classe, relativas às linguagens orientadas a objetos. Indique a alternativa correta.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Os atributos são os comportamentos de uma classe, ou seja, as tarefas que a classe pode executar.</choice>
+      <choice correct="true">Os atributos são as variáveis, ou seja, os dados que a classe e os métodos necessitam para realizar suas tarefas.</choice>
+      <choice correct="false">Os Atributos são as unidades básicas dos programas escritos em linguagens de programação orientadas a objetos.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

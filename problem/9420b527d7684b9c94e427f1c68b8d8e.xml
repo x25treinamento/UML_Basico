@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Os itens a seguir apresentam algumas definições de Métodos, no contexto das linguagens orientadas a objetos. Indique a alternativa correta.&#10;( ) Os Métodos são as unidades básicas dos programas nas linguagens orientadas a objetos. Eles exercem a mesma função que as classes.&#10;(x) Os métodos são os comportamentos de uma classe, ou seja, as tarefas que a classe pode executar.&#10;( ) Os métodos são os modelos a partir dos quais os objetos são construídos. Portanto, os objetos são instâncias dos métodos.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>Os itens a seguir apresentam algumas definições de Métodos, no contexto das linguagens orientadas a objetos. Indique a alternativa correta.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Os Métodos são as unidades básicas dos programas nas linguagens orientadas a objetos. Eles exercem a mesma função que as classes.</choice>
+      <choice correct="true">Os métodos são os comportamentos de uma classe, ou seja, as tarefas que a classe pode executar.</choice>
+      <choice correct="false">Os métodos são os modelos a partir dos quais os objetos são construídos. Portanto, os objetos são instâncias dos métodos.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

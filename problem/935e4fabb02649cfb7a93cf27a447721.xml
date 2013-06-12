@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Em sua opinião qual dos diagramas abaixo representa o enunciado da melhor forma? Indique a resposta correta.&#10;(x) Os dois diagramas representam o enunciado, no entanto, a utilização da herança no diagrama da opção 2 permite melhor reusabilidade e facilidade de manutenção. Já a opção 1 é mais simples, o que pode facilitar o entendimento.&#10;( ) Nenhum dos diagramas representa o enunciado. Além disso, a utilização do mecanismo de herança no diagrama da opção 2 está incorreto.&#10;( ) Somente o diagrama 2 representa o enunciado. A utilização da herança no diagrama da opção 2 de fato permitirá a reusabilidade de código. Não é possível construir um diagrama para a solução deste problema sem a utilização de herança.&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>Em sua opinião qual dos diagramas abaixo representa o enunciado da melhor forma? Indique a resposta correta.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Os dois diagramas representam o enunciado, no entanto, a utilização da herança no diagrama da opção 2 permite melhor reusabilidade e facilidade de manutenção. Já a opção 1 é mais simples, o que pode facilitar o entendimento.</choice>
+      <choice correct="false">Nenhum dos diagramas representa o enunciado. Além disso, a utilização do mecanismo de herança no diagrama da opção 2 está incorreto.</choice>
+      <choice correct="false">Somente o diagrama 2 representa o enunciado. A utilização da herança no diagrama da opção 2 de fato permitirá a reusabilidade de código. Não é possível construir um diagrama para a solução deste problema sem a utilização de herança.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,11 @@
+<problem display_name="Multiple Choice" markdown="Os diagramas de interação (sequência e colaboração) descrevem como os objetos interagem para realizar uma tarefa especificada por um caso de uso. Sobre esses diagramas é correto afirmar que:&#10;( ) Os diagramas de sequência mostram uma interação, ou seja, uma sequência de mensagens trocadas entre vários objetos em um determinado contexto. Enfatizam a organização dos objetos.&#10;( ) Os diagramas de colaboração apresentam, de maneira semelhante aos diagramas de sequência, a colaboração dinâmica entre os objetos. Enfatizam a comunicação e a passagem de controle entre objetos ao longo do tempo.&#10;( ) Nos diagramas de colaboração é apresentado o tempo de vida dos objetos.&#10;(x) O diagrama de sequência e o diagrama de colaboração são equivalentes entre si.&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>Os diagramas de interação (sequência e colaboração) descrevem como os objetos interagem para realizar uma tarefa especificada por um caso de uso. Sobre esses diagramas é correto afirmar que:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Os diagramas de sequência mostram uma interação, ou seja, uma sequência de mensagens trocadas entre vários objetos em um determinado contexto. Enfatizam a organização dos objetos.</choice>
+      <choice correct="false">Os diagramas de colaboração apresentam, de maneira semelhante aos diagramas de sequência, a colaboração dinâmica entre os objetos. Enfatizam a comunicação e a passagem de controle entre objetos ao longo do tempo.</choice>
+      <choice correct="false">Nos diagramas de colaboração é apresentado o tempo de vida dos objetos.</choice>
+      <choice correct="true">O diagrama de sequência e o diagrama de colaboração são equivalentes entre si.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

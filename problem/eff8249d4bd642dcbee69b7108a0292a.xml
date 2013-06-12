@@ -1,0 +1,11 @@
+<problem display_name="Multiple Choice" markdown="Com relação aos métodos, no contexto da programação orientada a objetos, todas as alternativas abaixo são verdadeiras, EXCETO:&#10;( ) O métodos constituem os comportamentos (as tarefas) que a classe sabe executar.&#10;(x) Uma classe pode abrigar apenas um único método.&#10;( ) Para que um método possa ser caracterizado e utilizado como tal, ele deve, necessariamente, estar dentro de uma Classe.&#10;( ) Uma classe pode utilizar métodos de outra classe por meio do mecanismo de herança.&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>Com relação aos métodos, no contexto da programação orientada a objetos, todas as alternativas abaixo são verdadeiras, EXCETO:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">O métodos constituem os comportamentos (as tarefas) que a classe sabe executar.</choice>
+      <choice correct="true">Uma classe pode abrigar apenas um único método.</choice>
+      <choice correct="false">Para que um método possa ser caracterizado e utilizado como tal, ele deve, necessariamente, estar dentro de uma Classe.</choice>
+      <choice correct="false">Uma classe pode utilizar métodos de outra classe por meio do mecanismo de herança.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,15 @@
+<problem display_name="Multiple Choice" markdown="As definições abaixo correspondem, respectivamente, aos elementos da UML:&#10;&#10;Ligação entre uma interface e as classes que a implementam. Representada por uma linha tracejada com uma seta vazada que aponta para a interface implementada.&#10;&#10;Relacionamento entre uma coisa geral (super classe ou pai) e coisas mais específicas (subclasses ou filhas). Representado por uma linha sólida com uma seta vazada que aponta para a super classe.&#10;&#10;É um relacionamento que indica que um dos itens é utilizado pelo outro. Dessa forma, uma alteração semântica do item utilizado pode afetar a semântica do item que o utiliza. É representada por linhas tracejadas.&#10;&#10;Relacionamento estrutural. Indica que objetos de uma classe estão conectados aos objetos de outra. Representada por linhas sólidas.&#10;( ) Especialização, generalização, dependência, interação.&#10;(x) Realização, generalização, dependência, associação.&#10;( ) Realização, generalização, dependência, interação.&#10;( ) Realização, especialização, dependência, associação.&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>As definições abaixo correspondem, respectivamente, aos elementos da UML:</p>
+  <p>Ligação entre uma interface e as classes que a implementam. Representada por uma linha tracejada com uma seta vazada que aponta para a interface implementada.</p>
+  <p>Relacionamento entre uma coisa geral (super classe ou pai) e coisas mais específicas (subclasses ou filhas). Representado por uma linha sólida com uma seta vazada que aponta para a super classe.</p>
+  <p>É um relacionamento que indica que um dos itens é utilizado pelo outro. Dessa forma, uma alteração semântica do item utilizado pode afetar a semântica do item que o utiliza. É representada por linhas tracejadas.</p>
+  <p>Relacionamento estrutural. Indica que objetos de uma classe estão conectados aos objetos de outra. Representada por linhas sólidas.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Especialização, generalização, dependência, interação.</choice>
+      <choice correct="true">Realização, generalização, dependência, associação.</choice>
+      <choice correct="false">Realização, generalização, dependência, interação.</choice>
+      <choice correct="false">Realização, especialização, dependência, associação.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,11 @@
+<problem display_name="Multiple Choice" markdown="Considerando o diagrama acima indique a opção incorreta:&#10;(x) Uma empresa pode ter nenhum, um ou vários departamentos.&#10;( ) Um departamento deve estar ligado a uma, e somente uma, empresa.&#10;( ) Um departamento pode ter nenhuma, uma ou várias pessoas ligadas a ele.&#10;( ) Uma pessoa pode trabalhar em apenas uma empresa.&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>Considerando o diagrama acima indique a opção incorreta:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Uma empresa pode ter nenhum, um ou vários departamentos.</choice>
+      <choice correct="false">Um departamento deve estar ligado a uma, e somente uma, empresa.</choice>
+      <choice correct="false">Um departamento pode ter nenhuma, uma ou várias pessoas ligadas a ele.</choice>
+      <choice correct="false">Uma pessoa pode trabalhar em apenas uma empresa.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,11 @@
+<problem display_name="Multiple Choice" markdown="Sobre os objetos, no contexto da programação orientada a objetos, todas as alternativas abaixo são verdadeiras, EXCETO:&#10;(x) Os objetos, por serem construções lógicas e imateriais, não podem representar entidades do mundo real.&#10;( ) Um objeto, em termos computacionais, pode ser entendido como uma abstração de alguma coisa (chamaremos de entidade) dentro do domínio de um problema ou na implementação de um sistema.&#10;( ) Qualquer que seja a entidade que um objeto represente, deve ser entendida como uma alta abstração do mundo real.&#10;( ) Os objetos são as instâncias de suas classes base.&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>Sobre os objetos, no contexto da programação orientada a objetos, todas as alternativas abaixo são verdadeiras, EXCETO:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Os objetos, por serem construções lógicas e imateriais, não podem representar entidades do mundo real.</choice>
+      <choice correct="false">Um objeto, em termos computacionais, pode ser entendido como uma abstração de alguma coisa (chamaremos de entidade) dentro do domínio de um problema ou na implementação de um sistema.</choice>
+      <choice correct="false">Qualquer que seja a entidade que um objeto represente, deve ser entendida como uma alta abstração do mundo real.</choice>
+      <choice correct="false">Os objetos são as instâncias de suas classes base.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

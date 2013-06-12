@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Indique, dentre as três opções que se seguem, aquela que lista corretamente os tipos de Itens utilizados na linguagem UML.&#10;(x) Itens Estruturais, Itens Comportamentais, Itens de Agrupamento e Itens Anotacionais.&#10;( ) Itens Estruturais, Itens Comportamentais, Itens de Agrupamento e Itens de Diagramas.&#10;( ) Itens de Casos de uso, Itens Comportamentais, Itens de Agrupamento e Itens Anotacionais.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>Indique, dentre as três opções que se seguem, aquela que lista corretamente os tipos de Itens utilizados na linguagem UML.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Itens Estruturais, Itens Comportamentais, Itens de Agrupamento e Itens Anotacionais.</choice>
+      <choice correct="false">Itens Estruturais, Itens Comportamentais, Itens de Agrupamento e Itens de Diagramas.</choice>
+      <choice correct="false">Itens de Casos de uso, Itens Comportamentais, Itens de Agrupamento e Itens Anotacionais.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,11 @@
+<problem display_name="Multiple Choice" markdown="Sobre diagramas de objetos pode-se afirmar, EXCETO:&#10;( ) Modelam as instâncias das classes e seus relacionamentos.&#10;( ) Retratam o sistema em um determinado instante, ou seja, exibem um conjunto de objetos e seus respectivos relacionamentos, em um determinado momento, como se fosse uma fotografia do sistema.&#10;(x) Os diagramas de objetos descrevem o sistema como um todo. Eles facilitam o entendimento e a validação do sistema e dos modelos.&#10;( ) O estado de um objeto diz respeito aos seus atributos, juntamente com seus valores atuais. Os atributos são, geralmente, considerados estáticos e seus valores são dinâmicos.&#10;" max_attempts="2" rerandomize="never" showanswer="finished" weight="1">
+  <p>Sobre diagramas de objetos pode-se afirmar, EXCETO:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Modelam as instâncias das classes e seus relacionamentos.</choice>
+      <choice correct="false">Retratam o sistema em um determinado instante, ou seja, exibem um conjunto de objetos e seus respectivos relacionamentos, em um determinado momento, como se fosse uma fotografia do sistema.</choice>
+      <choice correct="true">Os diagramas de objetos descrevem o sistema como um todo. Eles facilitam o entendimento e a validação do sistema e dos modelos.</choice>
+      <choice correct="false">O estado de um objeto diz respeito aos seus atributos, juntamente com seus valores atuais. Os atributos são, geralmente, considerados estáticos e seus valores são dinâmicos.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

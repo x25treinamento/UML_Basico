@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Os itens a seguir apresentam afirmações relativas aos Diagramas de Objetos na linguagem UML. Indique a alternativa que apresenta a afirmativa incorreta.&#10;( ) O diagrama de objetos modelará as instâncias das classes e seus relacionamentos, contidas no diagrama de classes.&#10;(x) O diagrama de objetos pode ser utilizado para exibir uma visão dinâmica do sistema.&#10;( ) E o diagrama de objetos exibirá um conjunto de objetos e seus respectivos relacionamentos, em um determinado momento, como se fosse uma fotografia do sistema.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>Os itens a seguir apresentam afirmações relativas aos Diagramas de Objetos na linguagem UML. Indique a alternativa que apresenta a afirmativa incorreta.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">O diagrama de objetos modelará as instâncias das classes e seus relacionamentos, contidas no diagrama de classes.</choice>
+      <choice correct="true">O diagrama de objetos pode ser utilizado para exibir uma visão dinâmica do sistema.</choice>
+      <choice correct="false">E o diagrama de objetos exibirá um conjunto de objetos e seus respectivos relacionamentos, em um determinado momento, como se fosse uma fotografia do sistema.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

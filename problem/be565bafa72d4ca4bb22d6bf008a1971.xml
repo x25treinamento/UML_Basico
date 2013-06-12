@@ -1,0 +1,11 @@
+<problem display_name="Image Mapped Input" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>
+A estrutura de uma Classe pode ser representada por um diagrama. Indique, nos itens a seguir, aquele que apresenta o modelo correto deste diagrama.
+</p>
+  <p>Selecione marque na imagem</p>
+  <imageresponse>
+    <imageinput src="http://x25.com.br/downloads/uml/img/mod66.png" width="157" height="279" rectangle="(365,42)-(423,66)"/>
+  </imageresponse>
+  <solution>
+    </solution>
+</problem>

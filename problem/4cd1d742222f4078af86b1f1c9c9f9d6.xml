@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Os itens a seguir apresentam afirmações relativas aos Diagramas em UML. Indique a alternativa que apresenta a afirmativa incorreta.&#10;( ) Utilizando os diagramas em UML, é possível representar toda a estrutura de um sistema ou apenas partes de dele.&#10;( ) Os diagramas em UML permitem que se construa uma representação visual do sistema, em diferentes perspectivas.&#10;(x) Num projeto utilizando a linguagem UML, será obrigatória a utilização de todos os itens, relacionamentos e diagramas que compõem a linguagem.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>Os itens a seguir apresentam afirmações relativas aos Diagramas em UML. Indique a alternativa que apresenta a afirmativa incorreta.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Utilizando os diagramas em UML, é possível representar toda a estrutura de um sistema ou apenas partes de dele.</choice>
+      <choice correct="false">Os diagramas em UML permitem que se construa uma representação visual do sistema, em diferentes perspectivas.</choice>
+      <choice correct="true">Num projeto utilizando a linguagem UML, será obrigatória a utilização de todos os itens, relacionamentos e diagramas que compõem a linguagem.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

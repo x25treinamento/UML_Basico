@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="Sobre diagramas de casos de uso, todas as alternativas abaixo são verdadeiras, EXCETO:&#10;( ) Os diagramas de casos de uso descrevem o comportamento do sistema. Fornecem uma visão estática dos casos de uso deste.&#10;( ) Os diagramas de casos de uso contêm um conjunto de casos de uso, atores e seu relacionamento.&#10;( ) Um caso de uso é a descrição de uma funcionalidade que o sistema fornece e que tenha valor para o usuário.&#10;( ) Atores representam conjuntos de papéis que os usuários do sistema assumem ao interagir com os casos de uso.&#10;(x) Os diagramas de casos de uso modelam a organização interna do software.&#10;" max_attempts="2" rerandomize="never" showanswer="finished" weight="1">
+  <p>Sobre diagramas de casos de uso, todas as alternativas abaixo são verdadeiras, EXCETO:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Os diagramas de casos de uso descrevem o comportamento do sistema. Fornecem uma visão estática dos casos de uso deste.</choice>
+      <choice correct="false">Os diagramas de casos de uso contêm um conjunto de casos de uso, atores e seu relacionamento.</choice>
+      <choice correct="false">Um caso de uso é a descrição de uma funcionalidade que o sistema fornece e que tenha valor para o usuário.</choice>
+      <choice correct="false">Atores representam conjuntos de papéis que os usuários do sistema assumem ao interagir com os casos de uso.</choice>
+      <choice correct="true">Os diagramas de casos de uso modelam a organização interna do software.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

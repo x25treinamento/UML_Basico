@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="As alternativas a, b e c a seguir apresentam considerações sobre o mecanismo de encapsulamento, no contexto da programação orientada a objetos. Indique, dentre elas, aquela que apresenta a afirmativa correta.&#10;( ) O Encapsulamento é um mecanismo da POO que permite que uma classe possa utilizar os métodos de outra classe.&#10;(x) O Encapsulamento é um mecanismo da POO que permite a proteção das variáveis de uma classe, impedindo que métodos de outras classes possam acessá-las ou modificá-las.&#10;( ) O Encapsulamento é um mecanismo da POO que concede acesso às variáveis protegidas de uma classe, por métodos alocados em outras classes.&#10;&#10;" max_attempts="1" rerandomize="per_student" showanswer="finished" weight="2">
+  <p>As alternativas a, b e c a seguir apresentam considerações sobre o mecanismo de encapsulamento, no contexto da programação orientada a objetos. Indique, dentre elas, aquela que apresenta a afirmativa correta.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">O Encapsulamento é um mecanismo da POO que permite que uma classe possa utilizar os métodos de outra classe.</choice>
+      <choice correct="true">O Encapsulamento é um mecanismo da POO que permite a proteção das variáveis de uma classe, impedindo que métodos de outras classes possam acessá-las ou modificá-las.</choice>
+      <choice correct="false">O Encapsulamento é um mecanismo da POO que concede acesso às variáveis protegidas de uma classe, por métodos alocados em outras classes.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

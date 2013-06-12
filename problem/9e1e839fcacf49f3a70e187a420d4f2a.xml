@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Indique, nos itens a seguir, a alternativa que define corretamente a relação entre classes e objetos, no contexto das linguagens de programação orientadas a objeto.&#10;(x) A Classe é o modelo, o gabarito, a partir do qual se constrói um Objeto. Portanto, um Objeto é uma instância de uma classe (podemos dizer que ele é o Objeto de uma classe).&#10;( ) Os objetos dão origem às classes. Portanto, as classes são instancias de objetos.&#10;( ) Objetos e classes são sinônimos.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>Indique, nos itens a seguir, a alternativa que define corretamente a relação entre classes e objetos, no contexto das linguagens de programação orientadas a objeto.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">A Classe é o modelo, o gabarito, a partir do qual se constrói um Objeto. Portanto, um Objeto é uma instância de uma classe (podemos dizer que ele é o Objeto de uma classe).</choice>
+      <choice correct="false">Os objetos dão origem às classes. Portanto, as classes são instancias de objetos.</choice>
+      <choice correct="false">Objetos e classes são sinônimos.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

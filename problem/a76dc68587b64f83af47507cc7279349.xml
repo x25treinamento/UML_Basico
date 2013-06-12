@@ -1,0 +1,11 @@
+<problem display_name="Multiple Choice" markdown="As opções abaixo apresentam algumas afirmativas relativas a diversas propriedades da linguagem de modelagem UML. Indique a opção incorreta sobre alguma propriedade da linguagem.&#10;&#10;( ) A linguagem UML é resultado da unificação de diferentes metodologias de análise e projeto de software cujo objetivo é a consolidação de um padrão de modelagem de sistemas, especialmente sistemas orientados a objetos.&#10;(x) A UML é uma linguagem de modelagem visual que permite a definição da estrutura de um projeto de software complexo. Mas ela não se aplica a softwares que serão desenvolvidos em linguagens orientadas a objetos.&#10;( ) A UML, Unified Modeling Language, permite, também, a construção de uma documentação sólida e consistente para o sistema.&#10;( ) É possível gerar códigos em uma linguagem de programação a partir de um modelo em UML.&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>As opções abaixo apresentam algumas afirmativas relativas a diversas propriedades da linguagem de modelagem UML. Indique a opção incorreta sobre alguma propriedade da linguagem.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">A linguagem UML é resultado da unificação de diferentes metodologias de análise e projeto de software cujo objetivo é a consolidação de um padrão de modelagem de sistemas, especialmente sistemas orientados a objetos.</choice>
+      <choice correct="true">A UML é uma linguagem de modelagem visual que permite a definição da estrutura de um projeto de software complexo. Mas ela não se aplica a softwares que serão desenvolvidos em linguagens orientadas a objetos.</choice>
+      <choice correct="false">A UML, Unified Modeling Language, permite, também, a construção de uma documentação sólida e consistente para o sistema.</choice>
+      <choice correct="false">É possível gerar códigos em uma linguagem de programação a partir de um modelo em UML.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

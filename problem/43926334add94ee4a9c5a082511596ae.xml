@@ -1,0 +1,17 @@
+<problem display_name="Multiple Choice" markdown="Considerando-se os relacionamentos de agregação e composição, e com base no diagrama acima, pode-se afirmar que:&#10;(x) Uma escola é formada por um ou mais departamentos e por zero ou mais alunos.&#10;( ) A agregação é um tipo de associação e a composição, é uma forma de agregação. No diagrama acima, o relacionamento entre escola e aluno é uma composição e entre escola e departamento é uma agregação.&#10;( ) Um departamento pode existir isoladamente, ou seja, sem a necessidade de estar ligado a alguma escola.&#10;( ) Um aluno não pode existir se não estiver ligado a uma escola.&#10;&#10;[explanation] The release of the iPod allowed consumers to carry their entire music library with them in a format that did not rely on fragile and energy-intensive spinning disks. [explanation] " max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>Considerando-se os relacionamentos de agregação e composição, e com base no diagrama acima, pode-se afirmar que:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Uma escola é formada por um ou mais departamentos e por zero ou mais alunos.</choice>
+      <choice correct="false">A agregação é um tipo de associação e a composição, é uma forma de agregação. No diagrama acima, o relacionamento entre escola e aluno é uma composição e entre escola e departamento é uma agregação.</choice>
+      <choice correct="false">Um departamento pode existir isoladamente, ou seja, sem a necessidade de estar ligado a alguma escola.</choice>
+      <choice correct="false">Um aluno não pode existir se não estiver ligado a uma escola.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p> The release of the iPod allowed consumers to carry their entire music library with them in a format that did not rely on fragile and energy-intensive spinning disks. </p>
+    </div>
+  </solution>
+</problem>

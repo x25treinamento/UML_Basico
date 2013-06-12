@@ -1,0 +1,11 @@
+<problem display_name="Multiple Choice" markdown="Com base no diagrama acima e nos seus conhecimentos, responda:&#10;&#10;Em qual das classes do diagrama devem ser inseridos cada um dos seguintes atributos: Data de Abertura, Data de Nascimento, Limite, CPF, CNPJ, Número, Saldo, Razão Social, Rendimento, Nome.&#10;(x) Conta Bancária (Data de Abertura, Saldo, Número), Conta Corrente (Limite), Conta Poupança (Rendimento), Pessoa Física (Nome, CPF, Data de Nascimento), Pessoa Jurídica (CNPJ, Razão Social).&#10;( ) Conta Bancária (Data de Abertura, Rendimento, Número), Conta Corrente (Limite), Conta Poupança (Saldo), Pessoa Física (Nome, Data de Nascimento), Pessoa Jurídica (CNPJ, Razão Social, CPF).&#10;( ) Conta Bancária (Data de Abertura, Limite, Número), Conta Corrente (Saldo), Conta Poupança (CPF), Pessoa Física (Nome, Data de Nascimento), Pessoa Jurídica (CNPJ, Razão Social, Data de Nascimento).&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>Com base no diagrama acima e nos seus conhecimentos, responda:</p>
+  <p>Em qual das classes do diagrama devem ser inseridos cada um dos seguintes atributos: Data de Abertura, Data de Nascimento, Limite, CPF, CNPJ, Número, Saldo, Razão Social, Rendimento, Nome.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Conta Bancária (Data de Abertura, Saldo, Número), Conta Corrente (Limite), Conta Poupança (Rendimento), Pessoa Física (Nome, CPF, Data de Nascimento), Pessoa Jurídica (CNPJ, Razão Social).</choice>
+      <choice correct="false">Conta Bancária (Data de Abertura, Rendimento, Número), Conta Corrente (Limite), Conta Poupança (Saldo), Pessoa Física (Nome, Data de Nascimento), Pessoa Jurídica (CNPJ, Razão Social, CPF).</choice>
+      <choice correct="false">Conta Bancária (Data de Abertura, Limite, Número), Conta Corrente (Saldo), Conta Poupança (CPF), Pessoa Física (Nome, Data de Nascimento), Pessoa Jurídica (CNPJ, Razão Social, Data de Nascimento).</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

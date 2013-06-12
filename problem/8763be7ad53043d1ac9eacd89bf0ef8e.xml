@@ -1,0 +1,11 @@
+<problem display_name="Multiple Choice" markdown="Considerando-se o diagrama acima, pode-se afirmar, EXCETO:&#10;(x) Qualquer pessoa, seja física ou jurídica, pode trabalhar em qualquer loja.&#10;( ) Qualquer pessoa, seja física ou jurídica, pode realizar compras em qualquer loja.&#10;( ) Uma pessoa física pode trabalhar em apenas uma loja, mas pode realizar compras em zero ou mais lojas.&#10;( ) Toda pessoa que compra na loja possui um nome, mas apenas as pessoas jurídicas possuem CNPJ e as pessoas físicas, CPF.&#10;&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>Considerando-se o diagrama acima, pode-se afirmar, EXCETO:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Qualquer pessoa, seja física ou jurídica, pode trabalhar em qualquer loja.</choice>
+      <choice correct="false">Qualquer pessoa, seja física ou jurídica, pode realizar compras em qualquer loja.</choice>
+      <choice correct="false">Uma pessoa física pode trabalhar em apenas uma loja, mas pode realizar compras em zero ou mais lojas.</choice>
+      <choice correct="false">Toda pessoa que compra na loja possui um nome, mas apenas as pessoas jurídicas possuem CNPJ e as pessoas físicas, CPF.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

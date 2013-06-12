@@ -1,0 +1,16 @@
+<problem display_name="Multiple Choice" markdown="Considerando as afirmações abaixo, marque a opção correta:&#10;&#10;I) Oferecem uma visão da relação entre componentes de software e de hardware. É utilizado para a modelagem da visão estática do funcionamento do sistema.&#10;&#10;II) São utilizados para a modelagem de aspectos físicos de sistemas.&#10;&#10;III) Evidenciam as dependências existentes entre o componentes de um sistema;&#10;&#10;IV) Contém: Nós, que representam uma unidade computacional, como parte de um hardware e conexões (meios de comunicação), representados por relacionamentos de dependência e associação,&#10;&#10;V) São utilizados para descrever a organização dos componentes dentro do sistema.&#10;&#10;( ) As afirmações I, II e III são referentes aos diagramas de componentes e as afirmações IV e V referem-se aos diagramas de implantação.&#10;( ) As afirmações I, III e V são referentes aos diagramas de componentes e as afirmações II e IV referem-se aos diagramas de implantação.&#10;(x) As afirmações II, III e V são referentes aos diagramas de componentes e as afirmações I e IV referem-se aos diagramas de implantação.&#10;( ) Todas as afirmações acima são referentes aos diagramas de componentes.&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>Considerando as afirmações abaixo, marque a opção correta:</p>
+  <p>I) Oferecem uma visão da relação entre componentes de software e de hardware. É utilizado para a modelagem da visão estática do funcionamento do sistema.</p>
+  <p>II) São utilizados para a modelagem de aspectos físicos de sistemas.</p>
+  <p>III) Evidenciam as dependências existentes entre o componentes de um sistema;</p>
+  <p>IV) Contém: Nós, que representam uma unidade computacional, como parte de um hardware e conexões (meios de comunicação), representados por relacionamentos de dependência e associação,</p>
+  <p>V) São utilizados para descrever a organização dos componentes dentro do sistema.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">As afirmações I, II e III são referentes aos diagramas de componentes e as afirmações IV e V referem-se aos diagramas de implantação.</choice>
+      <choice correct="false">As afirmações I, III e V são referentes aos diagramas de componentes e as afirmações II e IV referem-se aos diagramas de implantação.</choice>
+      <choice correct="true">As afirmações II, III e V são referentes aos diagramas de componentes e as afirmações I e IV referem-se aos diagramas de implantação.</choice>
+      <choice correct="false">Todas as afirmações acima são referentes aos diagramas de componentes.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

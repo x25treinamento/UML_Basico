@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Os itens a seguir apresentam afirmações relativas aos Diagramas de Casos de Uso na linguagem UML. Indique a alternativa que apresenta a afirmativa incorreta.&#10;(x) Para cada tarefa que o sistema deverá cumprir, poderão existir diversos casos de uso.&#10;( ) Para cada tarefa que o sistema deverá cumprir, haverá um caso de uso.&#10;( ) O diagrama de casos de uso mostra como o sistema irá interagir com o ambiente, fornecendo uma narrativa sobre como partes do sistema irão funcionar.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>Os itens a seguir apresentam afirmações relativas aos Diagramas de Casos de Uso na linguagem UML. Indique a alternativa que apresenta a afirmativa incorreta.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Para cada tarefa que o sistema deverá cumprir, poderão existir diversos casos de uso.</choice>
+      <choice correct="false">Para cada tarefa que o sistema deverá cumprir, haverá um caso de uso.</choice>
+      <choice correct="false">O diagrama de casos de uso mostra como o sistema irá interagir com o ambiente, fornecendo uma narrativa sobre como partes do sistema irão funcionar.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

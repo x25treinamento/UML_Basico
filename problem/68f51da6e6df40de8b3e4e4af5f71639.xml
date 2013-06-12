@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="Indique, nas opções abaixo, aquela que apresenta a definição correta de Classes dentro do contexto da programação orientada a objetos.&#10;( ) As Classes são as variáveis definidas para um programa escrito em uma linguagem orientada a objetos.&#10;( ) A Classe é o outro nome que se dá aos ambientes de desenvolvimentos das linguagens orientadas a objetos.&#10;(x) As Classes são as unidades básicas dos programas escritos em linguagens orientadas a objetos.&#10;" max_attempts="1" rerandomize="never" showanswer="finished" weight="2">
+  <p>Indique, nas opções abaixo, aquela que apresenta a definição correta de Classes dentro do contexto da programação orientada a objetos.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">As Classes são as variáveis definidas para um programa escrito em uma linguagem orientada a objetos.</choice>
+      <choice correct="false">A Classe é o outro nome que se dá aos ambientes de desenvolvimentos das linguagens orientadas a objetos.</choice>
+      <choice correct="true">As Classes são as unidades básicas dos programas escritos em linguagens orientadas a objetos.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

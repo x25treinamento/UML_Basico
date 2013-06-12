@@ -1,0 +1,11 @@
+<problem display_name="Multiple Choice" markdown="As afirmativas abaixo referem-se a diagramas de atividades. Todas estão corretas exceto:&#10;( ) O diagrama de atividade é um dos diagramas que podem ser utilizados para modelar aspectos dinâmicos de um sistema. Estes diagramas suportam comportamento paralelo, ou seja, permitem a visualização de ações que ocorrem simultaneamente, bem como sequências condicionais. Por meio dele, é possível descrever lógicas de procedimento e fluxos de trabalho.&#10;( ) Os principais elementos dos diagramas de atividades são: fork (bifurcação), join (união), branch, merge, e estados de ação.&#10;(x) Os diagramas de atividades mostram atividades computacionais envolvidas em uma operação. Descreve o comportamento de uma única classe que mostrará o comportamento do ciclo de vida de um único objeto.&#10;( ) Partições são utilizadas para representar a organização ou grupo responsável por uma determinada atividade dentro do sistema.&#10;" max_attempts="2" rerandomize="per_student" showanswer="finished" weight="1">
+  <p>As afirmativas abaixo referem-se a diagramas de atividades. Todas estão corretas exceto:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">O diagrama de atividade é um dos diagramas que podem ser utilizados para modelar aspectos dinâmicos de um sistema. Estes diagramas suportam comportamento paralelo, ou seja, permitem a visualização de ações que ocorrem simultaneamente, bem como sequências condicionais. Por meio dele, é possível descrever lógicas de procedimento e fluxos de trabalho.</choice>
+      <choice correct="false">Os principais elementos dos diagramas de atividades são: fork (bifurcação), join (união), branch, merge, e estados de ação.</choice>
+      <choice correct="true">Os diagramas de atividades mostram atividades computacionais envolvidas em uma operação. Descreve o comportamento de uma única classe que mostrará o comportamento do ciclo de vida de um único objeto.</choice>
+      <choice correct="false">Partições são utilizadas para representar a organização ou grupo responsável por uma determinada atividade dentro do sistema.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
